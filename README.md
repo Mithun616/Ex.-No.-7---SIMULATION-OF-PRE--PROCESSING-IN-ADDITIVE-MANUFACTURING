@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1428" height="1102" alt="image" src="https://github.com/user-attachments/assets/afa7cdc5-0641-4073-850a-7c53a841b2a0" />
+
+
+### Name: Mithun Kumar G
+### Register Number: 212224230160
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
